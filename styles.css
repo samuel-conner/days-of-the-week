@@ -1,0 +1,17 @@
+body
+{
+  background-color: #f57676;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+}
+#left {
+  background: pink;
+}
+#middle {
+  background: #590404;
+}
+#last {
+  background: #329da8;
+}
